@@ -1,0 +1,18 @@
+{
+    "features": [{
+            "Id": "1232",
+            "Name": "Kopernik",
+            "Description": "lorem ipsum sdnjfnsdksfd",
+            "latitude": 53.0331258,
+            "longitude": 18.6155611
+        },
+        {
+            "Id": "1233",
+            "Name": "Koparkak",
+            "Description": "papapapaapapap",
+            "latitude": 53.033172,
+            "longitude": 18.6255338
+        }
+
+    ]
+}
