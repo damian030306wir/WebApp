@@ -20,6 +20,7 @@
   transform: translateY(-18%);
   margin: auto;
   background-color: white;
+  overflow: scroll
 }
 
 .title {
@@ -124,3 +125,8 @@
   margin: auto;
   color: red
 }
+
+body {
+  overflow: hidden;
+}
+

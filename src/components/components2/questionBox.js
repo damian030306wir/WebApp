@@ -5,7 +5,7 @@ const QuestionBox = ({ question, options, selected }) => {
     return (
         <div className="questionBox">
             <div className="question">{question}</div>
-            {answer.map((text, index) => (
+            {(answer || []).map((text, index) => (
                 <button key={index} className="answerBtn" onClick={() => {
                     setAnswer([text]);
                     selected(text)
